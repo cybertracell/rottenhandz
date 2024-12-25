@@ -5,4 +5,4 @@
 # ROTTENHANDZ
 
 ---
-[PROJECT COMING SOON]
+A Very Simple ROT13 Decryption and Encryption Script Made In Bash
